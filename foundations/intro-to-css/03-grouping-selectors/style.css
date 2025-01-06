@@ -1,0 +1,16 @@
+.botao{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+
+.botao#preto{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+
+.botao#amarelo{
+    background-color: yellow;
+}
+

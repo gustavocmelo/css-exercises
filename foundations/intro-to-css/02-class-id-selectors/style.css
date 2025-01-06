@@ -1,0 +1,21 @@
+.impar {
+  background-color: #fdd;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#dupla {
+  font-size: 36px;
+  color: blue;
+}
+
+.impar.terceiro {
+  font-size: 24px;
+}
+
+#quarteto {
+  background-color: #dfd;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+
